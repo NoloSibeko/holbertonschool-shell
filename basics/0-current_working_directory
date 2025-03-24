@@ -1,1 +1,3 @@
-root@f3f984eb1fa14ccf9b0007430203e2c2-2377118072:/holbertonschool-shell/basics#
+#!/bin/bash
+pwd
+
