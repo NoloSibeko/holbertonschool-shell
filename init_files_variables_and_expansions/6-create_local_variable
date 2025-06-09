@@ -1,0 +1,7 @@
+#!/bin/bash
+
+create_variable() {
+  local BEST="School"
+}
+
+create_variable
